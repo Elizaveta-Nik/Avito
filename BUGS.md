@@ -30,4 +30,4 @@
 **Ожидаемый результат:** Вкладка открывается без ошибок.
 **Фактический результат:** Появляется ошибка JavaScript.
 
-![Ошибка JavaScript](https://3.downloader.disk.yandex.ru/preview/48ee1c96e584df11ebebdb016307d228c92130e53dc481efb35d5bb80e9dc017/inf/heQaP0swgtOnreKqUIPXpp1xwWaZcDbqwMb0D1uBZEj927-HnGAjV9q6RnPQgTx4MEfo7k1dWamid4NbCxE4jQ%3D%3D?uid=498781142&filename=avito.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=498781142&tknv=v2&size=1920x945)
+![Ошибка JavaScript](https://github.com/Elizaveta-Nik/Avito/blob/master/avito.jpg)
